@@ -1,0 +1,42 @@
+Luxembourg France Germany Belgium
+Bulgaria Greece Turkey Romania
+Estonia Russia
+Monaco France
+Slovenia Croatia Italy
+France Luxembourg Monaco Andorra Switzerland Italy Spain
+Greece Bulgaria
+Germany Luxembourg Austria Netherlands CzechRepublic Denmark Poland
+Albania Montenegro
+Slovakia Austria
+Kosovo Serbia
+Hungary Austria Romania Serbia
+Russia Estonia Norway Latvia Finland Poland
+Montenegro Albania Croatia
+Croatia Slovenia Montenegro BosniaandHerzegovina
+Norway Russia Sweden
+Sweden Norway
+Belarus Poland
+Austria Germany Slovakia Hungary
+Turkey Bulgaria
+Latvia Russia
+Finland Russia
+Moldova Ukraine
+Andorra France
+Lithuania Poland
+Switzerland France Liechtenstein
+Italy Slovenia France VaticanCity SanMarino
+Ukraine Moldova Poland
+Portugal Spain
+Netherlands Germany
+CzechRepublic Germany
+Belgium Luxembourg
+Spain France Portugal
+VaticanCity Italy
+Denmark Germany
+Liechtenstein Switzerland
+SanMarino Italy
+BosniaandHerzegovina Croatia
+Poland Germany Russia Belarus Lithuania Ukraine
+Romania Bulgaria Hungary
+NorthMacedonia Serbia
+Serbia Kosovo Hungary NorthMacedonia Serbia
